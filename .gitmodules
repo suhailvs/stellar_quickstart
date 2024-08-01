@@ -1,0 +1,3 @@
+[submodule "stellarexplorer"]
+	path = stellarexplorer
+	url = https://github.com/chatch/stellarexplorer
